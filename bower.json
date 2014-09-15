@@ -1,5 +1,5 @@
 {
-  "name": "JW Player Mirror",
+  "name": "jw-player-mirror",
   "main": ["jwplayer.js", "jwplayer.html5.js", "jwplayer.flash.swf"],
   "description": "Unofficial mirror of JW Player 6+",
   "license": "",
